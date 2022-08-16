@@ -1,0 +1,24 @@
+body {
+	text-align: center;
+}
+
+#box-el {
+	color: #fff;
+	font-size: 24px;
+	text-align: center;
+	padding: 40px;
+	width: 50%;
+	margin: auto;
+	background-color: seagreen;
+}
+
+#container {
+	margin-top: 30px;
+}
+
+#container button {
+	background-color: seagreen;
+	color: white;
+	padding: 20px 30px;
+	border: none;
+}

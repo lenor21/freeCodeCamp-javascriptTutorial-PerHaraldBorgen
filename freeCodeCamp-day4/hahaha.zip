@@ -1,0 +1,869 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"ex",
+				"flex"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"spa",
+				"space-around"
+			],
+			[
+				"border-bottom-",
+				"border-bottom-width"
+			],
+			[
+				"bottom",
+				"border-bottom"
+			],
+			[
+				"un",
+				"underline"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"t",
+				"static"
+			],
+			[
+				"overflow-",
+				"overflow-wrap"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"r",
+				"inherit"
+			],
+			[
+				"s",
+				"contents"
+			],
+			[
+				"n",
+				"unset"
+			],
+			[
+				"word",
+				"word-spacing"
+			],
+			[
+				"bo",
+				"bolder"
+			],
+			[
+				"jus",
+				"justify-self"
+			],
+			[
+				"ju",
+				"justify-self"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"fot",
+				"font-display"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"te",
+				"title"
+			],
+			[
+				"wa",
+				"flex-wrap"
+			],
+			[
+				"m",
+				"bottom"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"alig",
+				"align-content"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"cu",
+				"current_time"
+			],
+			[
+				"dis",
+				"display_time"
+			],
+			[
+				"c",
+				"space-between"
+			],
+			[
+				"tra",
+				"translateY()"
+			],
+			[
+				"f",
+				"inline-flex"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"blue",
+				"cadetblue"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"b",
+				"bolder"
+			],
+			[
+				"hi",
+				"line-height"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"ho",
+				"text-anchor"
+			],
+			[
+				"h",
+				"hyphens"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"boder",
+				"border-style"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"BOR",
+				"border"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"backgro",
+				"background-position"
+			],
+			[
+				"border-to",
+				"border-top-width"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"ead",
+				"header"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"g",
+				"lightcyan"
+			],
+			[
+				"mag",
+				"margin-top"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"width",
+				"border-left-width"
+			],
+			[
+				"whi",
+				"white"
+			],
+			[
+				"fa",
+				"font-family"
+			],
+			[
+				"bl",
+				"cadetblue"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"ye",
+				"lightyellow"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"background-",
+				"background-size"
+			],
+			[
+				"border-width",
+				"border-right-width"
+			],
+			[
+				"p",
+				"padding-right"
+			],
+			[
+				"l",
+				"letter-spacing"
+			],
+			[
+				"A",
+				"sans-serif"
+			],
+			[
+				"d",
+				"dashed"
+			],
+			[
+				"re",
+				"royalblue"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"im",
+				"border-image-width"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"red",
+				"indianred"
+			],
+			[
+				"gr",
+				"green"
+			],
+			[
+				"opt",
+				"option"
+			],
+			[
+				"th",
+				"th"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"fi",
+				"firstname"
+			],
+			[
+				"ent",
+				"entry3"
+			],
+			[
+				"fir",
+				"firstname"
+			],
+			[
+				"fist",
+				"firstname_var"
+			],
+			[
+				"e",
+				"entry3"
+			],
+			[
+				"entr",
+				"entry1"
+			],
+			[
+				"M",
+				"MTy"
+			],
+			[
+				"B",
+				"Blue"
+			],
+			[
+				"R",
+				"r_button1"
+			],
+			[
+				"en",
+				"entry_2"
+			],
+			[
+				"up",
+				"update_command"
+			],
+			[
+				"de",
+				"delete_command"
+			],
+			[
+				"vi",
+				"view_command"
+			],
+			[
+				"ro",
+				"roomType_text"
+			],
+			[
+				"list",
+				"list1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Java/JavaC.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Arithmetic"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"nldcnk"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/ronel/Desktop/Java Script/example-2/style.css",
+		"/C/Users/ronel/Desktop/Java Script/example-2/main.js",
+		"/C/Users/ronel/Desktop/Java Script/example-2/index.html",
+		"/C/Users/ronel/Desktop/Java Script/freeCodeCamp-day4/main.js",
+		"/C/Users/ronel/Desktop/Java Script/freeCodeCamp-day4/manifest.json",
+		"/C/Users/ronel/Desktop/Java Script/freeCodeCamp-day4/style.css",
+		"/C/Users/ronel/Desktop/Java Script/freeCodeCamp-day4/index.html",
+		"/C/Users/ronel/Desktop/php/welcome.php",
+		"/C/Users/ronel/Desktop/Java Script/example/main.js",
+		"/C/Users/ronel/Desktop/Java Script/example/index.html",
+		"/C/Users/ronel/Desktop/Java Script/freeCodeCamp-day3/index.html",
+		"/C/Users/ronel/Desktop/Java Script/freeCodeCamp-day3/style.css",
+		"/C/Users/ronel/Desktop/Java Script/freeCodeCamp-day3/main.js",
+		"/C/Users/ronel/Desktop/Eportfolio/lenor21.github.io/css/style.css",
+		"/C/Users/ronel/Desktop/html class/chilli_garlic/style.css",
+		"/C/Users/ronel/Desktop/html class/chilli_garlic/index.html",
+		"/C/Users/ronel/Desktop/Eportfolio/lenor21.github.io/index.html",
+		"/C/Users/ronel/Desktop/CSS class/myWebsite3/index.html",
+		"/C/Users/ronel/Desktop/CSS class/myWebsite3/css/style.css",
+		"/C/Users/ronel/Desktop/New folder (2)/python-quiz-finals/quiz1.py",
+		"/C/Users/ronel/Downloads/quiz1.py",
+		"/C/Users/ronel/Downloads/tracing.py",
+		"/C/Users/ronel/Desktop/New folder/midterm/Dimensions.py",
+		"/C/Users/ronel/Desktop/New folder/Quiz1/arithmethic.py",
+		"/C/Users/ronel/Desktop/New folder/midterm/Tracing1.py",
+		"/C/Users/ronel/Downloads/tracing (1).py",
+		"/C/Users/ronel/Desktop/New folder/Quiz1/Dimensions.py",
+		"/C/Users/ronel/Desktop/New folder/Quiz1/quizOpenCV.py",
+		"/C/Users/ronel/Desktop/New folder/Lab2/Lab2_Item3_DeJesus_Hermoso.py",
+		"/C/Users/ronel/Desktop/New folder/Lab2/Lab2_Item4_DeJesus_Hermoso.py",
+		"/C/Users/ronel/Desktop/New folder/Lab1/Lab1_Item3_DeJesus_Hermoso.py",
+		"/C/Users/ronel/Desktop/New folder/Lab2/Lab2_Item2_DeJesus_Hermoso.py",
+		"/C/Users/ronel/Desktop/New folder/Lab2/Lab2_Item2_Nagoy_Bondoc.py",
+		"/C/Users/ronel/Downloads/Lab2_Item2_Nagoy_Bondoc.py",
+		"/C/Users/ronel/Documents/New folder/quiz-java.java",
+		"/C/Users/ronel/Desktop/New folder/Lab1/Lab1-Item3.py",
+		"/C/Users/ronel/Desktop/New folder/Lab1/Lab1-Item2.py",
+		"/C/Users/ronel/Downloads/Lab1-Item2.py",
+		"/C/Users/ronel/Downloads/Lab1-Item3.py",
+		"/C/Users/ronel/Desktop/Java Script/freeCodeCamp-day1/main.js",
+		"/C/Users/ronel/Desktop/Java Script/freeeCodeCamp-day2/main.js",
+		"/C/Users/ronel/Desktop/Java Script/freeeCodeCamp-day2/index.html",
+		"/C/Users/ronel/Desktop/Java Script/freeCodeCamp-day1/index.html",
+		"/C/Users/ronel/Desktop/Java Script/freeeCodeCamp-day2/style.css",
+		"/C/Users/ronel/Desktop/freeCodeCamp/Personal Portfolio/style.css",
+		"/C/Users/ronel/Desktop/freeCodeCamp/Personal Portfolio/index.html",
+		"/C/Users/ronel/Desktop/freeCodeCamp/Technical-documentation-page/wala.html",
+		"/C/Users/ronel/Desktop/freeCodeCamp/Technical-documentation-page/style.css",
+		"/C/Users/ronel/Desktop/freeCodeCamp/Technical-documentation-page/index.html",
+		"/C/Users/ronel/Desktop/freeCodeCamp/Landing-page/style.css",
+		"/C/Users/ronel/Desktop/freeCodeCamp/Landing-page/index.html",
+		"/C/Users/ronel/Desktop/Eportfolio/myPortfolio/index.html",
+		"/C/Users/ronel/Desktop/freeCodeCamp/Survey-form/style.css",
+		"/C/Users/ronel/Desktop/freeCodeCamp/Survey-form/index.html",
+		"/C/Users/ronel/Desktop/freeCodeCamp/tribute-page/style.css",
+		"/C/Users/ronel/Desktop/freeCodeCamp/tribute-page/index.html",
+		"/C/Users/ronel/Desktop/practice/style.css",
+		"/C/Users/ronel/Desktop/practice/index.html",
+		"/C/Users/ronel/Desktop/practice/main.js",
+		"/C/Users/ronel/Desktop/mySQL/sql/learnsql.py",
+		"/C/Users/ronel/Desktop/mySQL/sql/display_database.py",
+		"/C/Users/ronel/Desktop/Eportfolio/myPortfolio/others.html",
+		"/C/Users/ronel/Desktop/Eportfolio/myPortfolio/webinars.html",
+		"/C/Users/ronel/Desktop/mySQL/sql/person.py",
+		"/C/Users/ronel/Desktop/Eportfolio/myPortfolio/css/style.css",
+		"/C/Users/ronel/Desktop/CSS class/myWebsite2/style.css",
+		"/C/Users/ronel/Desktop/CSS class/myWebsite4/index.html",
+		"/C/Users/ronel/Desktop/Eportfolio/myPortfolio/html/others.html",
+		"/C/Users/ronel/Desktop/Eportfolio/myPortfolio/html/webinars.html",
+		"/C/Users/ronel/Desktop/Java Script/day-1/style.css",
+		"/C/Users/ronel/Desktop/Java Script/day-1/main.js",
+		"/C/Users/ronel/Desktop/Java Script/day-1/index.html",
+		"/C/Users/ronel/Desktop/CSS class/myWebsite5/css/style.css",
+		"/C/Users/ronel/Desktop/css class/myWebsite5/index.html",
+		"/C/Users/ronel/Desktop/html class/index.html",
+		"/C/Users/ronel/Desktop/css class/myWebsite3/index.html",
+		"/C/Users/ronel/Desktop/css class/myWebsite3/about.html",
+		"/C/Users/ronel/Desktop/css class/myWebsite3/services.html",
+		"/C/Users/ronel/Desktop/css class/myWebsite3/css/style.css",
+		"/C/Users/ronel/Desktop/css class/myWebsite4/index.html",
+		"/C/Users/ronel/Desktop/CSS class/myWebsite4/css/style.css",
+		"/C/Users/ronel/Desktop/CSS class/myWebsite3/services.html",
+		"/C/Users/ronel/Desktop/CSS class/myWebsite3/about.html",
+		"/C/Users/ronel/Desktop/CSS class/myWebsite2/index.html",
+		"/C/Users/ronel/Desktop/css class/myWebsite/index.html",
+		"/C/Users/ronel/Desktop/CSS class/myWebsite/css/style.css",
+		"/C/Users/ronel/Desktop/css class/CSS/index.html",
+		"/C/Users/ronel/Desktop/CSS class/CSS/style.css",
+		"/C/Users/ronel/Desktop/css class/css style/style.css",
+		"/C/Users/ronel/Desktop/css class/css style/index.html",
+		"/C/Users/ronel/Desktop/websites/newtab.html",
+		"/C/Users/ronel/Desktop/websites/index.html",
+		"/C/Users/ronel/Cisco Packet Tracer 8.0/saves/New folder/day2.py",
+		"/C/Users/ronel/Cisco Packet Tracer 8.0/saves/New folder/calcu.py",
+		"/C/Users/ronel/Cisco Packet Tracer 8.0/saves/New folder/pattern.py",
+		"/C/Users/ronel/Cisco Packet Tracer 8.0/saves/New folder/try.py",
+		"/C/Users/ronel/Cisco Packet Tracer 8.0/saves/New folder/py.py",
+		"/C/Users/ronel/AppData/Roaming/Sublime Text/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/ronel/Cisco Packet Tracer 8.0/saves/New folder/age.py",
+		"/C/Users/ronel/Cisco Packet Tracer 8.0/saves/mainLibrary/LibBksDatabase.py",
+		"/C/Users/ronel/Cisco Packet Tracer 8.0/saves/mainLibrary/main.py",
+		"/C/Users/ronel/Cisco Packet Tracer 8.0/saves/hehe.py",
+		"/C/Users/ronel/Downloads/RestaurantManagementSystem.py",
+		"/C/Users/ronel/Cisco Packet Tracer 8.0/saves/newdatabase/database.py",
+		"/C/Users/ronel/Cisco Packet Tracer 8.0/saves/newdatabase/try.py",
+		"/C/Users/ronel/PycharmProjects/pythonProject48/qitem1_DeJesus_Hermoso.py",
+		"/C/Users/ronel/PycharmProjects/pythonProject47/qitem2_DeJesus_Hermoso.py",
+		"/C/Users/ronel/PycharmProjects/pythonProject44/Lab5_DeJesus_Hermoso.py",
+		"/C/Users/ronel/PycharmProjects/pythonProject44/shapes.py",
+		"/C/Users/ronel/Cisco Packet Tracer 8.0/saves/database/database.py",
+		"/C/Users/ronel/Cisco Packet Tracer 8.0/saves/database.py",
+		"/C/Users/ronel/Cisco Packet Tracer 8.0/saves/back.py",
+		"/C/Users/ronel/PycharmProjects/pythonProject52/main.py",
+		"/C/Users/ronel/Cisco Packet Tracer 8.0/saves/main.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"zombieOne",
+			"\t\t\t\t\n",
+			"50px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\ronel\\Desktop\\practice"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.413223140496,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 187.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 156.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
